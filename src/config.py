@@ -23,8 +23,9 @@ MENU_STRUCTURE = {
         "type": "group",
         "icon": "💰",
         "items": {
-            "ROCA 2025": "https://app.powerbi.com/view?r=eyJrIjoiMTVmNmM4NzEtYzQzNS00ZjI2LWE4OGQtMTk5OTZiYjJjMDc1IiwidCI6IjA3MzljZmI3LWJhNTEtNDc3ZS05NWYxLWYxYmRkMWYzMTEzMCIsImMiOjR9",
             "ROCA 2026": "https://app.powerbi.com/view?r=eyJrIjoiZThhMGY1YzUtODVlNy00M2NmLWFlNmQtYjJiYjhjNTFkNzIzIiwidCI6IjA3MzljZmI3LWJhNTEtNDc3ZS05NWYxLWYxYmRkMWYzMTEzMCIsImMiOjR9",
+            "ROCA 2025": "https://app.powerbi.com/view?r=eyJrIjoiMTVmNmM4NzEtYzQzNS00ZjI2LWE4OGQtMTk5OTZiYjJjMDc1IiwidCI6IjA3MzljZmI3LWJhNTEtNDc3ZS05NWYxLWYxYmRkMWYzMTEzMCIsImMiOjR9",
+            
         }
     },
     "Directorio de Consultas": {"type": "page", "icon": "🌐"}
