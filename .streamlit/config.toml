@@ -1,0 +1,20 @@
+[theme]
+# Naranja institucional: Brilla en botones, selectores y barras de carga
+primaryColor = "#EA5B0C" 
+
+# Blanco puro: Para que el fondo combine perfectamente con los Power BI
+backgroundColor = "#FFFFFF" 
+
+# Gris muy suave: Para separar visualmente el menú lateral
+secondaryBackgroundColor = "#F4F6F6" 
+
+# Verde oscuro institucional: Para que los textos sean legibles y elegantes
+textColor = "#0F3A31" 
+
+font = "sans serif"
+
+[server]
+headless = true
+
+[client]
+toolbarMode = "viewer"
