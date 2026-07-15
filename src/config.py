@@ -43,7 +43,7 @@ ENLACES_EXTERNOS = {
         {"nombre": "VIVANTO - Víctimas", "url": "https://vivantov2.unidadvictimas.gov.co/", "desc": "Consulta de estatus en el Registro Único de Víctimas (RUV)."},
         {"nombre": "Procuraduría - Antecedentes", "url": "https://www.procuraduria.gov.co/Pages/Consulta-de-Antecedentes.aspx", "desc": "Certificación de antecedentes disciplinarios vigentes."},
         {"nombre": "Defunciones Registraduría", "url": "https://defunciones.registraduria.gov.co/", "desc": "Verificación de novedades por fallecimiento mediante documento."},
-        {"nombre": "Certificados Registraduría (BDUA)", "url": "https://www.adres.gov.co/BDUA", "desc": "Consulta de registros civiles y bases de datos de nacimiento."},
+        {"nombre": "Certificados Registraduría (BDUA)", "url": "https://consultasrc.registraduria.gov.co:28080/ProyectoSCCRC/", "desc": "Consulta de registros civiles y bases de datos de nacimiento."},
         {"nombre": "INPEC - Población Privada de la Libertad", "url": "https://www.inpec.gov.co/registro-de-la-poblacion-privada-de-la-libertad", "desc": "Consulta de registros oficiales de personas privadas de la libertad."}
     ],
     "Financiamiento y Compensación ADRES": [
