@@ -53,8 +53,9 @@ ENLACES_EXTERNOS = {
 }
 
 TEXTO_BIENVENIDA = """
-### Consolidado de Información de Aseguramiento
-Bienvenido al portal centralizado. Aquí podrá consultar los informes interactivos 
-de estadísticas y presupuesto, así como acceder rápidamente a las plataformas 
-oficiales de validación de derechos (ADRES, Sisbén, etc.).
+### Portal de Gestión del Aseguramiento - Envigado
+Bienvenido al sistema centralizado de consulta y seguimiento. Este portal facilita 
+el acceso a indicadores estratégicos, reportes financieros y plataformas oficiales 
+de validación, consolidando la información necesaria para el ejercicio de las 
+funciones en el marco del aseguramiento en salud del municipio.
 """

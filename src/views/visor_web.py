@@ -35,7 +35,7 @@ def render_iframe(titulo: str, url: str) -> None:
                 use_container_width=True
             )
 
-        st.caption(
+        st.info(
             "💡 **Nota de seguridad:** Si el recuadro inferior aparece en gris, "
             "la entidad de origen restringe la visualización externa. Use el "
             "botón superior para consultar en una nueva pestaña."
