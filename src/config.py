@@ -25,7 +25,7 @@ MENU_STRUCTURE = {
         "items": {
             "ROCA 2026": "https://app.powerbi.com/view?r=eyJrIjoiZThhMGY1YzUtODVlNy00M2NmLWFlNmQtYjJiYjhjNTFkNzIzIiwidCI6IjA3MzljZmI3LWJhNTEtNDc3ZS05NWYxLWYxYmRkMWYzMTEzMCIsImMiOjR9",
             "ROCA 2025": "https://app.powerbi.com/view?r=eyJrIjoiMTVmNmM4NzEtYzQzNS00ZjI2LWE4OGQtMTk5OTZiYjJjMDc1IiwidCI6IjA3MzljZmI3LWJhNTEtNDc3ZS05NWYxLWYxYmRkMWYzMTEzMCIsImMiOjR9",
-            
+
         }
     },
     "Directorio de Consultas": {"type": "page", "icon": "🌐"}
@@ -34,13 +34,12 @@ MENU_STRUCTURE = {
 ENLACES_EXTERNOS = {
     "Plataformas de Afiliación y Seguridad Social": [
         {"nombre": "Consulta EPS (ADRES)", "url": "https://www.adres.gov.co/consulte-su-eps", "desc": "Verificación del estado de aseguramiento en salud."},
-        {"nombre": "Consulta Sisbén IV", "url": "https://reportes.sisben.gov.co/dnp_sisbenconsulta", "desc": "Identificación de grupo poblacional y estado del Sisbén IV."},
+        {"nombre": "Consulta RUI", "url": "https://ventanillasocial.dnp.gov.co/", "desc": "Clasificación poblacional basada en la estimación de ingresos (reemplaza al Sisbén IV)."},
         {"nombre": "BDUA - Regímenes de Excepción", "url": "https://aplicaciones.adres.gov.co/BDUA_Internet/Pages/ConsultarAfiliadoWebBDEX.aspx?pag=4099", "desc": "Validación de afiliados en regímenes especiales y exceptuados."},
         {"nombre": "Mi Seguridad Social", "url": "https://miseguridadsocial.gov.co/", "desc": "Gestión centralizada de afiliaciones y reporte de novedades."},
         {"nombre": "Savia Salud - Certificados", "url": "https://www.saviasaludeps.com/sitioweb/tramites-en-linea/certificado-de-afiliacion", "desc": "Certificados de afiliación a SAVIA SALUD EPS."}
     ],
     "Auditoría y Gestión de Novedades": [
-        {"nombre": "SISBÉN - Portal de Solicitudes", "url": "https://reportes.sisben.gov.co/DNP_PortalUnicoSolicitudes/Modulo/Frontend/Login.aspx", "desc": "Consultas masivas a la base de datos de SISBÉN IV."},
         {"nombre": "VIVANTO - Víctimas", "url": "https://vivantov2.unidadvictimas.gov.co/", "desc": "Consulta de estatus en el Registro Único de Víctimas (RUV)."},
         {"nombre": "Procuraduría - Antecedentes", "url": "https://www.procuraduria.gov.co/Pages/Consulta-de-Antecedentes.aspx", "desc": "Certificación de antecedentes disciplinarios vigentes."},
         {"nombre": "Defunciones Registraduría", "url": "https://defunciones.registraduria.gov.co/", "desc": "Verificación de novedades por fallecimiento mediante documento."},
@@ -55,8 +54,8 @@ ENLACES_EXTERNOS = {
 
 TEXTO_BIENVENIDA = """
 ### Portal de Gestión del Aseguramiento - Envigado
-Bienvenido al sistema centralizado de consulta y seguimiento. Este portal facilita 
-el acceso a indicadores estratégicos, reportes financieros y plataformas oficiales 
-de validación, consolidando la información necesaria para el ejercicio de las 
+Bienvenido al sistema centralizado de consulta y seguimiento. Este portal facilita
+el acceso a indicadores estratégicos, reportes financieros y plataformas oficiales
+de validación, consolidando la información necesaria para el ejercicio de las
 funciones en el marco del aseguramiento en salud del municipio.
 """
