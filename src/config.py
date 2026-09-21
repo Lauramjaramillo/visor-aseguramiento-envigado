@@ -47,8 +47,8 @@ ENLACES_EXTERNOS = {
         {"nombre": "INPEC - Población Privada de la Libertad", "url": "https://www.inpec.gov.co/registro-de-la-poblacion-privada-de-la-libertad", "desc": "Consulta de registros oficiales de personas privadas de la libertad."}
     ],
     "Financiamiento y Compensación ADRES": [
-        {"nombre": "Liquidaciones y Restituciones", "url": "https://www.adres.gov.co/eps/regimen-subsidiado/liquidaciones-y-restituciones-por-afiliado", "desc": "Consulta de saldos financieros por afiliado (Régimen Subsidiado)."},
-        {"nombre": "Afiliados Compensados", "url": "https://www.adres.gov.co/eps/regimen-contributivo/Paginas/afiliados-compensados.aspx", "desc": "Auditoría de procesos de compensación del Régimen Contributivo."}
+        {"nombre": "Liquidaciones y Restituciones", "url": "https://www.adres.gov.co/eps/procesos/regimen-subsidiado/liquidaciones-y-restituciones-por-afiliado", "desc": "Consulta de saldos financieros por afiliado (Régimen Subsidiado)."},
+        {"nombre": "Afiliados Compensados", "url": "https://www.adres.gov.co/eps/procesos/regimen-contributivo/afiliados-compensados", "desc": "Auditoría de procesos de compensación del Régimen Contributivo."}
     ]
 }
 
